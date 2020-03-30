@@ -1,14 +1,5 @@
-# Starting work
-- A two player local settlers of catan game
-    - Game turn system
-    - Base map
-        - Randomized resource tiles
-        - Randomized sea tiles
-        - Randomzed dock tiles
-    - Resource number assignment
-    - Rollable dice
-    - Player pieces
-        - Robber
-        - Roads
-        - Settlements & Cities
-    - Player resource amounts
+# QT5 Python GUI Programming Work
+- [x] Line edit Hello <name> Program
+- [x] Radio Button Airfare Calculator
+- [x] Radio Button Shirt Order Program
+
