@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>680</width>
+    <height>265</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>231</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Choose the Diagnosis Tests</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="labelTest">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>160</y>
+     <width>591</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QListWidget" name="listWidgetDiagnosis">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>30</y>
+     <width>256</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Urine Analysis $5</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Chest X Ray $100</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Sugar Level Test $3</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Hemoglobin Test $7</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Thyroid Stimulating Hormone Test $10</string>
+    </property>
+   </item>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
